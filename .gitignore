@@ -1,0 +1,22 @@
+# Local API configuration and credentials
+.env
+.env.*
+!.env.example
+config.json
+config.local.json
+*.local.json
+xjtu-ai-config.json
+secrets/
+local/
+
+# Build output, temporary files, and editor state
+node_modules/
+work/
+outputs/
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*~

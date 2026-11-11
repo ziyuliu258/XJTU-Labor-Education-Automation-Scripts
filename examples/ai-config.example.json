@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://api.example.com/v1",
+  "model": "替换为服务商提供的模型ID",
+  "apiKey": "",
+  "rememberKey": false,
+  "timeout": 180,
+  "delay": 800,
+  "headers": {},
+  "params": {},
+  "instructions": "请用中文简要解释选项的依据。"
+}
